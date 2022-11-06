@@ -1,6 +1,6 @@
 ### Olá, eu sou a Graciele de Oliveira estudante de Engenharia de Computação 👋
 
-- Atualmente estagiária de Desenvolvimento Web 
+- Desenvolvedora Jr
 - Estudando Java, Python e SQL
 
 
@@ -16,7 +16,7 @@
    <img align="center" alt="Graciele-Java" height="30" width="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
    <img align="center" alt="Graciele-Spring" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit">
    <img align="center" alt="Graciele-MySQL" height="30" width="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-   <img align="right" alt="Graciele-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/dd49445f6668abec507b85d3e5f65789.gif">
+  
 </div>
   
    ##
