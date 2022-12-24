@@ -1,4 +1,4 @@
-### Olá, eu sou a Graciele de Oliveira estudante de Engenharia de Computação 👋
+### Olá, eu sou a Graciele de Oliveira 👋
 
 - Desenvolvedora Jr
 - Estudando Java, Python e SQL
